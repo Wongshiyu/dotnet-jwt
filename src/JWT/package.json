@@ -1,0 +1,22 @@
+{
+	"name": "com.jwt-dotnet.jwt",
+	"displayName": "JWT dotnet",
+	"description": "jwt dotnet",
+	"version": "1.0.0",
+	"unity": "2018.3",
+	"author": {
+		"name": "JWT dotnet",
+		"url": "https://github.com/jwt-dotnet/jwt/"
+	},
+	"dependencies": {
+	},
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:Wongshiyu/jwt.git"
+	},
+	"keywords": [
+		"jwt"
+	],
+	"license": "SEE LICENSE IN LICENSE",
+	"homepage": "https://github.com/Wongshiyu/jwt#readme"
+}
